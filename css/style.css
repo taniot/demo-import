@@ -1,0 +1,6 @@
+@import '_partials/variable.css';
+@import '_partials/reset.css';
+@import '_partials/common.css';
+@import '_partials/font.css';
+
+@import url('_partials/responsive.css');
